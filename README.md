@@ -1,4 +1,4 @@
-# slidedown
+# KelseyJudson
 libGDX extension providing cross-platform support for Facebook Graph API.
 
 ## Updates & News
