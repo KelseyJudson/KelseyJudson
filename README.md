@@ -1,4 +1,4 @@
-# network
+# slidedown
 libGDX extension providing cross-platform support for Facebook Graph API.
 
 ## Updates & News
